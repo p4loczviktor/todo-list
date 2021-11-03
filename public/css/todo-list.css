@@ -1,0 +1,27 @@
+input:focus {
+    box-shadow: none;
+}
+
+footer {
+    position: fixed;
+    width: 100vw;
+    bottom: 0;
+    left: 0;
+}
+
+.fs-12px {
+    font-size: 12px;
+}
+
+.safe-zone {
+    height: 100px;
+}
+
+.float-right {
+    float: right;
+}
+
+.scroll-boundry {
+    max-height: 92vh;
+    max-width: 600px;
+}
